@@ -229,7 +229,7 @@ def crack_menu():
 					crt.close()
 					checkpoint.append(user+pass1)
 				else:
-					pass2 = 'pakistan
+				
                     pass2 = 'janjan
                     pass2 = 'khankhan
                     @123
